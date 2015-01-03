@@ -8,6 +8,7 @@ Pairing Demo (5-10 minutes) Brendan/Jeff
 	String Calculator (45 minutes) 
 Principles (25 minutes) Jeff
 	String Calculator w/Principles (45 minutes) 
+Wrap up discussion of how people did and what was learned.
 
 
 
@@ -23,3 +24,4 @@ Patterns (20 minutes) Jeff
 	Greed With Rules Engine (60 minutes)
 More Practices (25 minutes) Brendan
 	Happy Hour Kata (60 minutes)
+Wrap up discussion of how people did and what was learned.
