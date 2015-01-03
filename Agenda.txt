@@ -3,7 +3,7 @@ Beginning SC (240 minutes)
 Introduction (10-15 minutes) Brendan
 	FizzBuzz Alone (30 minutes)
 Practices (25 minutes) Brendan
-Pairing Demo (5-10 minutes)
+Pairing Demo (5-10 minutes) Brendan/Jeff
 	FizzBuzz Paired (30 minutes)
 	String Calculator (45 minutes) 
 Principles (25 minutes) Jeff
@@ -17,6 +17,7 @@ Principles (25 minutes) Jeff
 Intermediate SC (240 minutes)
 
 Intro (2 minute) Brendan
+Pairing Demo (5-10 minutes) Brendan/Jeff
 	Greed Pairing (60 minutes)
 Patterns (20 minutes) Jeff
 	Greed With Rules Engine (60 minutes)
