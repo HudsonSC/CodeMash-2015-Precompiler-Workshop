@@ -1,16 +1,20 @@
-Beginning SC
+Beginning SC (240 minutes)
 
 Introduction (10-15 minutes) Brendan
-
-Principles (25 minutes) Jeff
-
+	FizzBuzz Alone (30 minutes)
 Practices (25 minutes) Brendan
+Pairing Demo (5-10 minutes)
+	FizzBuzz Paired (30 minutes)
+	String Calculator (45 minutes) 
+Principles (25 minutes) Jeff
+	String Calculator w/Principles (45 minutes) 
 
 
 
 
 
-Intermediate SC
+
+Intermediate SC (240 minutes)
 
 Intro (2 minute) Brendan
 
