@@ -17,8 +17,8 @@ Principles (25 minutes) Jeff
 Intermediate SC (240 minutes)
 
 Intro (2 minute) Brendan
-
+	Greed Pairing (60 minutes)
 Patterns (20 minutes) Jeff
-
+	Greed With Rules Engine (60 minutes)
 More Practices (25 minutes) Brendan
-
+	Happy Hour Kata (60 minutes)
